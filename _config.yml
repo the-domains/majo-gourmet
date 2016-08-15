@@ -1,4 +1,3 @@
-layout_spectrum: 0.8726279626134783
 typography_spectrum: 0.5773825398646295
 color:
   brandStrength: 0.3531434175092727
@@ -11,4 +10,6 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
+layout_spectrum: 0.8726279626134783
 name: MAJO GOURMET
+title: COMER ES UN PLACER
